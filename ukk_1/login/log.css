@@ -1,0 +1,12 @@
+body {
+    background-color: #FFB703;
+}
+
+.tes {
+    /* background-image: url("welcome.jpg"); */
+    margin-top: 0px;
+    padding: 0px 60px 0px 80px;
+}
+.bulat {
+    border-radius: 50%;
+}
